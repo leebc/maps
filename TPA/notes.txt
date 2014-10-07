@@ -1,0 +1,17 @@
+3x3 map sheets
+	==  (3x 15.5) 46.5 col by (3x 17) 51 row
+	==  4650 ft by 5100 ft
+	==  1117 m by 1555 m
+	=?= 9.2 scm by 10.2 		(2scm = 1000 ft)
+
+
+2x2 map sheets 
+	==  (2x 15.5) 31 col  by (2x 17) 34 row 
+	==  3100 ft by 3400 ft
+	==  944 m by 1036.2 m
+	=?= 6.2 scm by 6.8 scm		(2 scm = 1000 ft)
+	=?= 12.4 scm by 13.6 scm	(2 scm = 500 ft)
+	=?= 31 scm by 34.0 scm		(2 scm = 200 ft)
+
+
+
