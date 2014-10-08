@@ -29,8 +29,8 @@ buildings
 	Airside E
 	Airside F
 	Control Tower
+	Hotel
 	Immaculate
-	Marriott Hotel
-	Main Parking	
-	Main Terminal
+	Parking	
+	Terminal
 
