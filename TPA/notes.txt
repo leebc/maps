@@ -21,6 +21,16 @@ sat map
 	underlay width	80
 	underlay height	80
 
-
-
+buildings
+	Airside A
+	Airside B
+	Airside C
+	Airside D	XXXXX
+	Airside E
+	Airside F
+	Control Tower
+	Immaculate
+	Marriott Hotel
+	Main Parking	
+	Main Terminal
 
