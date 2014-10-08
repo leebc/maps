@@ -11,7 +11,16 @@
 	==  944 m by 1036.2 m
 	=?= 6.2 scm by 6.8 scm		(2 scm = 1000 ft)
 	=?= 12.4 scm by 13.6 scm	(2 scm = 500 ft)
-	=?= 31 scm by 34.0 scm		(2 scm = 200 ft)
+	=?= 23.25 scm by 25.5 scm		(1.5 scm = 200 ft)
+
+sat map
+	hex width 	27	
+	hex height 	24
+	underlay X	-1963
+	underlay y	-270
+	underlay width	80
+	underlay height	80
+
 
 
 
