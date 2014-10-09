@@ -28,9 +28,9 @@ buildings
 	Airside D	XXXXX
 	Airside E
 	Airside F
-	Control Tower
 	Hotel
-	Immaculate
+	Gemaculate
+	Main Terminal
 	Parking	
-	Terminal
+	Tower
 
