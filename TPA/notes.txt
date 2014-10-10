@@ -24,16 +24,19 @@ sat map
 buildings
 	A Airside	Level 2 
 	B Airside	Level 2 
-	C Airside	Level 2 
-XXX	D Airside	   XXXXX
+	C Airside	Level 2/3
 	E Airside	Level 2 
 	F Airside	Level 2 
+	Connector tower	Level 5
 	Hotel		Level 2/5/6
-	Gemaculate	Level 2 
-	Main terminal	Level 4 
-	N		Level 2 
-	Parking		Level  
-	R		Level 2 
-	Support build	Level2
-	Tower		Level
+	Gemaculate	Level 2/3
+	Links		Level 4
+	Main terminal	Level 6/7
+	N		Level 2/3
+	Out buildings	Level 1 / Level 2
+	Parking		Level 4/5 
+	R		Level 2/3
+	Support build	Level 2
+	Toll booth	Level 2
+	Tower		Level 8
 
