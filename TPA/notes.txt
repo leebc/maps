@@ -25,6 +25,7 @@ buildings
 	A Airside	Level 2 
 	B Airside	Level 2 
 	C Airside	Level 2/3
+	D Airside	
 	E Airside	Level 2 
 	F Airside	Level 2 
 	Connector tower	Level 5
